@@ -95,7 +95,7 @@ const Navbar = () => {
           </div>
         ) : ( 
           <Link to="/login" className="nav_link">
-            Login
+            <button>Login</button>
           </Link>
         )}
         <div className="hamburger-menu" onClick={toggleMenu}>

@@ -79,6 +79,21 @@
 .nav-dark{
     background: #141414;
 }
+.navbar-right button{
+    padding: 10px 20px;
+    background-color: #e50914;
+    color: white;
+    border: 0;
+    outline: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.navbar-right button:hover {
+  background-color: #99070f;
+}
 
 
 /* Media Query for Mobile Screens */
